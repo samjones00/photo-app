@@ -2,5 +2,5 @@
     "azure": {
         "blobStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=storagesjo;AccountKey=k6xNUdTjsV9FpzJyRaGCGm++PegPEiFQrOWLGaN5dZep2hlFG3krD5uHoPaRwrBkzPOigGwFmy4AX4sgOOJMxA==;EndpointSuffix=core.windows.net"
     },
-    "outputDirectory":"/home/pi/Desktop/plant/"
+    "outputDirectory":"/home/pi/Desktop/plant"
 }
